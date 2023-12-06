@@ -9,3 +9,8 @@ Understand and appreciate the most widely used tools of business statistics whic
 Focus on problem recognition and test hypothesis in the context of business decision-making.
 Develop skills in analysis and interpretation of data
 Handle challenging problems using the appropriate analytics tool
+
+
+Descriptive Statistics - Data collection, presentation and visuals, measures of central tendency, dispersion and correlation
+Inferential Statistics - Introduction to probability and distributions
+Hypothesis testing and estimation
